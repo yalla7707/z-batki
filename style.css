@@ -4,7 +4,7 @@ body{
 header{
     background-color:navy;
     height:15vh;
-    color:gold;
+    color:beige;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -43,7 +43,7 @@ img{
 footer{
     height:15vh;
     background-color:navy;
-    color:gold;
+    color:beige;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -52,3 +52,4 @@ footer{
     padding-right: 30px;
     font-size:150%;
 }
+
