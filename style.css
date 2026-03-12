@@ -1,0 +1,54 @@
+body{
+    font-family:Arial;
+}
+header{
+    background-color:navy;
+    height:15vh;
+    color:gold;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:180%;
+}
+main{
+    display:flex;
+    height:70vh;
+}
+#lewo{
+    background-color:steelblue;
+    width:40%;
+    color:white;
+    font-size:150%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+#lewo ul {
+    list-style-type:circle;
+}   
+#prawo{
+    background-color:lightblue;
+    width:60%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+img{
+    width:578px;
+    height:500px;
+    padding-right:50px;
+}
+footer{
+    height:15vh;
+    background-color:navy;
+    color:gold;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: right;
+    flex-direction: column;
+    padding-right: 30px;
+    font-size:150%;
+}
